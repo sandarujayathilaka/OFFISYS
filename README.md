@@ -15,5 +15,5 @@ OFFISYS is an Office Progress Management System tailored for divisional secretar
 * JWT
 
 ## Preview
-![alt text](https://github.com/offisystw/portfolio/blob/main/bodima.png?raw=true)
+![alt text](https://github.com/offisystw/portfolio/blob/main/port_images/offisys.PNG?raw=true)
 
